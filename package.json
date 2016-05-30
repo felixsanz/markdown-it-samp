@@ -1,6 +1,6 @@
 {
   "name": "markdown-it-samp",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "Samp html tags for markdown-it",
   "main": "index.js",
   "scripts": {
